@@ -4,6 +4,6 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/', // Nombre de tu repositorio
+  base: '/rafamagers.github.io/', // Nombre de tu repositorio
 
 })
